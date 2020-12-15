@@ -2,7 +2,7 @@
 A Flappy bird inspired game 
 
 ## Discription
-A tiny game spired with Flappy Birds
+A tiny game spired with Flappy Birds, tap to gather highest score
 
 ## Technologies
 SpriteKit
