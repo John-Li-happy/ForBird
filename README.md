@@ -1,7 +1,13 @@
 # ForBird
 A Flappy bird inspired game 
 
+## Discription
+A tiny game spired with Flappy Birds
+
 ## Technologies
+SpriteKit
+
+GmaePlayKit
 
 ## IDE
 Swift 5.3
